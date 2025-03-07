@@ -1,0 +1,35 @@
+#jikoku {
+    font-family: "Poiret One", serif;
+    font-size: 400px; /* フォントサイズを縮小 */
+    position: fixed;
+    bottom: 200px; /* 位置を調整 */
+    left: 100px; /* 位置を調整 */
+}
+
+#hiduke {
+    font-size: 100px; /* フォントサイズを縮小 */
+    position: fixed;
+    left: 450px; /* 位置を調整 */
+    bottom: 20px; /* 位置を調整 */
+}
+
+#kakuritu {
+    font-size: 90px; /* フォントサイズを縮小 */
+    position: fixed;
+    bottom: 150px; /* 位置を調整 */
+    left: 450px; /* 位置を調整 */
+}
+
+#kion {
+    font-size: 100px; /* フォントサイズを縮小 */
+    position: fixed;
+    left: 750px; /* 位置を調整 */
+    bottom: 20px; /* 位置を調整 */
+}
+
+h2 img {
+    width: 250px; /* サイズを縮小 */
+    position: fixed;
+    bottom: 20px; /* 位置を調整 */
+    left: 100px; /* 位置を調整 */
+}

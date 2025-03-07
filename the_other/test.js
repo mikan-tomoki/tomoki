@@ -1,0 +1,1 @@
+const f = () => {console.log("sample program")}
